@@ -1,5 +1,5 @@
 import { Breadcrumbs, Container, PageTitle } from '@/shared/ui'
-import { NewsList } from '@/widgets/news-list'
+import { NewsList } from './NewsList'
 import { NEWS_PAGE } from '../model'
 
 export function NewsPage() {

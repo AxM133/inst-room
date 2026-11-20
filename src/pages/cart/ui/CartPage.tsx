@@ -1,6 +1,6 @@
 import { ROUTES } from '@/shared/config'
 import { Breadcrumbs, ButtonLink, Container, PageTitle } from '@/shared/ui'
-import { CartContent } from '@/widgets/cart-content'
+import { CartContent } from './CartContent'
 import { CART_PAGE } from '../model'
 
 export function CartPage() {

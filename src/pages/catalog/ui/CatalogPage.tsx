@@ -1,5 +1,5 @@
 import { Breadcrumbs, Container, PageTitle } from '@/shared/ui'
-import { CatalogCategories } from '@/widgets/catalog-categories'
+import { CatalogCategories } from './CatalogCategories'
 import { CATALOG_PAGE } from '../model'
 
 export function CatalogPage() {

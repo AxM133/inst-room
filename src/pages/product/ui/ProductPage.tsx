@@ -1,7 +1,7 @@
 import { Container } from '@/shared/ui'
-import { ProductDetails } from '@/widgets/product-details'
-import { ProductTabs } from '@/widgets/product-tabs'
-import { RelatedProducts } from '@/widgets/related-products'
+import { ProductDetails } from './ProductDetails'
+import { ProductTabs } from './ProductTabs'
+import { RelatedProducts } from './RelatedProducts'
 
 export function ProductPage() {
   return (

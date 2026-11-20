@@ -1,5 +1,5 @@
 import { Container } from '@/shared/ui'
-import { BrandInfo } from '@/widgets/brand-info'
+import { BrandInfo } from './BrandInfo'
 import { CatalogHeading } from '@/widgets/catalog-heading'
 import { CatalogProducts } from '@/widgets/catalog-products'
 import { CatalogSidebar } from '@/widgets/catalog-sidebar'

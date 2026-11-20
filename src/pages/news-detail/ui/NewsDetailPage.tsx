@@ -1,4 +1,4 @@
-import { Article } from '@/widgets/article'
+import { Article } from './Article'
 
 export function NewsDetailPage() {
   return <Article />

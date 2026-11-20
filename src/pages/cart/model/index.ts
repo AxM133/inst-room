@@ -6,3 +6,4 @@ export const CART_PAGE = {
   continueLabel: 'Продолжить покупки',
   crumbs: [{ label: 'Главная', to: ROUTES.home }, { label: 'Корзина' }] satisfies Crumb[],
 }
+export * from './useCartContent'

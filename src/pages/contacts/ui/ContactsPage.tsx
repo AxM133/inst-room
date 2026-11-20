@@ -1,5 +1,5 @@
 import { Breadcrumbs, Container, PageTitle } from '@/shared/ui'
-import { ContactsMap } from '@/widgets/contacts-map'
+import { ContactsMap } from './ContactsMap'
 import { CONTACTS_PAGE } from '../model'
 
 export function ContactsPage() {

@@ -5,3 +5,4 @@ export const CONTACTS_PAGE = {
   title: 'Контакты',
   crumbs: [{ label: 'Главная', to: ROUTES.home }, { label: 'Контакты' }] satisfies Crumb[],
 }
+export * from './useContacts'

@@ -1,5 +1,5 @@
 import { Breadcrumbs, Container, PageTitle } from '@/shared/ui'
-import { FavoritesList } from '@/widgets/favorites-list'
+import { FavoritesList } from './FavoritesList'
 import { FAVORITES_PAGE } from '../model'
 
 export function FavoritesPage() {

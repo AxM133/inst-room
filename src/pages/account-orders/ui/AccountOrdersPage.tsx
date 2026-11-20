@@ -1,5 +1,5 @@
 import { AccountShell } from '@/widgets/account-shell'
-import { OrdersList } from '@/widgets/orders-list'
+import { OrdersList } from './OrdersList'
 
 export function AccountOrdersPage() {
   return (

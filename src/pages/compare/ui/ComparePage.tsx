@@ -1,5 +1,5 @@
 import { Breadcrumbs, Container } from '@/shared/ui'
-import { CompareTable } from '@/widgets/compare-table'
+import { CompareTable } from './CompareTable'
 import { NewsBlock } from '@/widgets/news-block'
 import { COMPARE_PAGE } from '../model'
 
