@@ -1,6 +1,6 @@
 # Inst room
 
-Интернет-магазин инструмента по макетам из FIGMA по ссылке [https://www.figma.com/design/0NNlv3ZgE6MvQc3YTWW85M/Inst-room--Copy-?node-id=0-1&p=f&t=3D0URzsZL4iHLlhD-0](Link).
+Интернет-магазин инструмента по макетам из FIGMA по ссылке [Link](https://www.figma.com/design/0NNlv3ZgE6MvQc3YTWW85M/Inst-room--Copy-?node-id=0-1&p=f&t=3D0URzsZL4iHLlhD-0).
 React 19 + TypeScript, Tailwind CSS 4, react-router 8, react-hook-form, архитектура Feature-Sliced Design.
 
 ```bash
